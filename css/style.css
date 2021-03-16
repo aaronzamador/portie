@@ -11,6 +11,7 @@
 .alogo{max-width:80px;max-height:80px;}
 nav{
     width:73%;
+    float:right;
     padding:1%;
 }
 .hd{
@@ -35,6 +36,7 @@ ul{
 }
 .content{
     width:500px;
+    display:inline-block;
     margin:0 auto;
 }
 footer{
